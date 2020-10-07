@@ -1,5 +1,5 @@
 {
-  "name": "@tezos-core-tools/crypto-utils",
+  "name": "@sylo/crypto-utils",
   "version": "0.0.6",
   "description": "Crypto Utilities",
   "main": "dist/main.js",

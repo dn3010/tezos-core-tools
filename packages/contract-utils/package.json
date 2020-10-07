@@ -1,5 +1,5 @@
 {
-  "name": "@tezos-core-tools/contract-utils",
+  "name": "@sylo/contract-utils",
   "version": "0.0.6",
   "description": "Contract Utilities",
   "main": "dist/main.js",
