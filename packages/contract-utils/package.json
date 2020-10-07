@@ -1,6 +1,6 @@
 {
   "name": "@sylo/contract-utils",
-  "version": "0.0.6",
+  "version": "0.0.6-node-build",
   "description": "Contract Utilities",
   "main": "dist/main.js",
   "scripts": {
